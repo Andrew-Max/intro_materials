@@ -1,6 +1,6 @@
 ## Steps to make a new rails hello world app.
-**(when you see [] that means replace what I wrote with your input)**
-**(when you see $ that means enter this as a command line command)**
+- **(when you see [] that means replace what I wrote with your input)**
+- **(when you see $ that means enter this as a command line command)**
 
 1. open a terminal and go to the place where you want to make your new app
 
