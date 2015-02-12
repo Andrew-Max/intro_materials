@@ -57,6 +57,7 @@ You should be able to clone a git repo from the internet to your machine. Pull d
   - networking
   - servers
   - "the cloud"
+
 ##HTML/CSS
   Do the codecadmy course
  - http://www.codecademy.com/en/tracks/web
@@ -75,4 +76,4 @@ http://www.codecademy.com/en/tracks/jquery
 
 ###References 
   - https://www.youtube.com/watch?v=xtS2NiABf54 (series on bash)
-  - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK[series on linux]
+  - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK (series on linux)
