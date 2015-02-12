@@ -16,10 +16,7 @@
   9. sudo apt-get install [program] : the way you download programs through the command line in ubuntu
   10. sudo homebrew [program]: the way you download programs
   
-###References 
-  - https://www.youtube.com/watch?v=xtS2NiABf54 (series on bash)
-  - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK
-
+  
 ##Git
 
 Git is a revision control system. This means you cna use it to save and review very detailed changes in the life of a document or file. Git is essential to modern software development.
@@ -74,3 +71,8 @@ Do the codecademy course
 http://www.codecademy.com/en/tracks/javascript
  and the jquery codecademy course. Jquery is a javascipt library which allows you to change html, css and data, easily in the browser
 http://www.codecademy.com/en/tracks/jquery
+
+
+###References 
+  - https://www.youtube.com/watch?v=xtS2NiABf54 (series on bash)
+  - https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK[series on linux]
