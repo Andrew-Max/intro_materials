@@ -1,5 +1,6 @@
 #Learning Resources
-[Eli The Computer Guy](https://www.youtube.com/user/elithecomputerguy)
+###[Eli The Computer Guy](https://www.youtube.com/user/elithecomputerguy)
+
 - [intro to the internet pt1](https://www.youtube.com/watch?v=DTQV7_HwF58)
   (there are 4 more parts)
 - [intro to tcp/ip](https://www.youtube.com/watch?v=EkNq4TrHP)
