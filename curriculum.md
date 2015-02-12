@@ -55,10 +55,22 @@ You should be able to clone a git repo from the internet to your machine. Pull d
 
 ##How the web works
 
+  - http
+  - tcp/ip
+  - networking
+  - servers
+  - "the cloud"
 ##HTML/CSS
-
+  Do the codecadmy course
+ - http://www.codecademy.com/en/tracks/web
 ##Ruby
-
+  Do the codecademy course
+  http://www.codecademy.com/en/tracks/ruby
 ##Rails
-
+  Do this extensive tutorial. It will combine all things you have learned so far into a project where you make a fully functioning website with ruby and ruby on rails.
+  https://www.railstutorial.org/book
 ##Javascript
+Do the codecademy course
+http://www.codecademy.com/en/tracks/javascript
+ and the jquery codecademy course. Jquery is a javascipt library which allows you to change html, css and data, easily in the browser
+http://www.codecademy.com/en/tracks/jquery
