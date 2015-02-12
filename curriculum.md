@@ -1,7 +1,8 @@
 #Curriculum
 
-## Command line
-  ### Notes
+##Command line
+
+###Notes
   - The language you use in the linux or mac command line is call Bash. The terminals of both OS's are based off of Unix. Windows uses a totally different command line language which sucks. It is a big reason why a lot of windows programming sucks
   ### command cheat sheat
   1. cd: change directory 
