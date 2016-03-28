@@ -3,16 +3,16 @@
 ###Notes
   - The language you use in the linux or mac command line is call Bash. The terminals of both OS's are based off of Unix. Windows uses a totally different command line language which sucks. It is a big reason why a lot of windows programming sucks
   ### command cheat sheat
-  1. cd: change directory 
+  1. cd: change directory (ie "cd /games/doom")
   2. pwd: list path of current directory
   3. ls: list contents of current directory
-  4. . : reference for current directory
+  4. . : reference for current directory (ie "cd ." will change your directory to your current directory ie do nothing)
   5. .. : reference for parent of current directory (ie "cd .." will move you back one directory)
   6. ~ : reference for home directory (ie "cd ~" will move you to your home directory)
   7. / : reference for root directory
   8. sudo [command]: putting this in front of a command will cause that command to be administered with root (admin) priveleges. 
   9. sudo apt-get install [program] : the way you download programs through the command line in ubuntu
-  10. sudo homebrew [program]: the way you download programs
+  10. sudo homebrew [program]: the way you download programs on mac
   
   
 ##Git
